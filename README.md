@@ -23,5 +23,5 @@ The design automatically adjusts to different screen sizes — from mobile phone
 
 ---
 
-## 📂 Project Structure
+## 📂 KODBUD Intersnhip Task 6
 
